@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711ac0ff-44cc-43c1-ae1a-4222a8ff9e2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayEx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Inheritance/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Inheritance/OverrideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/GoldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArrayEx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayEx/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +31,7 @@
   </component>
   <component name="ProjectId" id="1QP6DSjfQPugTQYt6ffLsUgv2nY" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -57,6 +66,8 @@
       <workItem from="1567868699012" duration="198000" />
       <workItem from="1567869010212" duration="244000" />
       <workItem from="1568376960349" duration="862000" />
+      <workItem from="1568645060510" duration="602000" />
+      <workItem from="1568683263479" duration="7829000" />
     </task>
     <servers />
   </component>
@@ -68,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
