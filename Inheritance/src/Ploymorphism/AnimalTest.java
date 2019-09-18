@@ -6,6 +6,10 @@ class Animal{
     public void move() {
         System.out.println("동물이 움직입니다.");
     }
+
+    public void eating(){
+
+    }
 }
 class Human extends Animal{
     public void move(){
@@ -20,12 +24,18 @@ class Tiger extends Animal{
     public void move() {
         System.out.println("호랑이가 네 발로 뜁니다");
     }
+    public void hunting() {
+        System.out.println("호랑이가 사냥을 합니다");
+    }
 }
 
 class Eagle extends Animal{
 
     public void move(){
         System.out.println("독수리가 하늘로 날아갑니다");
+    }
+    public void flying(){
+        System.out.println("독수리가 도망갑니다");
     }
 }
 
@@ -35,6 +45,9 @@ public class AnimalTest {
      Animal hAnimal = new Human();
      Animal tAnimal = new Tiger();
      Animal eAnimal = new Eagle();
+//     Eagle human = (Eagle) hAnimal;
+
+//     human.flying();
 //     hAnimal.hello();
 
 //     AnimalTest test = new AnimalTest();
@@ -47,8 +60,30 @@ public class AnimalTest {
         animalArrayList.add(tAnimal);
         animalArrayList.add(eAnimal);
 
-        for(Animal animal : animalArrayList){
-            animal.move();
+        AnimalTest animalTest = new AnimalTest();
+        animalTest.testDownCasting(animalArrayList);
+
+//        for(Animal animal : animalArrayList){
+//            animal.move();
+//        }
+    }
+    public void testDownCasting(ArrayList<Animal> animalArrayList) {
+        for(int i = 0; i<animalArrayList.size(); i++){
+            Animal animal = animalArrayList.get(i);
+
+            if ( animal instanceof  Human){
+                Human human = (Human)animal;
+                human.hello();
+            }
+            else if ( animal instanceof Eagle){
+                Eagle eagle = (Eagle)animal;
+                eagle.flying();
+            } else if ((animal instanceof Tiger)) {
+                Tiger tiger = (Tiger)animal;
+                tiger.hunting();
+            }   else {
+                System.out.println("Error");
+            }
         }
     }
 

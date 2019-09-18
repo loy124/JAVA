@@ -4,6 +4,7 @@ public class Customer {
     protected  int customerID;
     protected  String customerName;
     protected String customerGrade;
+    protected int agentID;
     int bonusPoint;
     double bonusRatio;
 
@@ -18,6 +19,7 @@ public class Customer {
         this.customerName = customerName;
         customerGrade = "SILVER";
         bonusRatio = 0.01;
+
 
     }
 

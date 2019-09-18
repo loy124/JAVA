@@ -3,12 +3,11 @@ package Ploymorphism;
 public class GoldCustomer extends Customer{
 
     double salesRatio;
-
-    public GoldCustomer(int customerID, String customerName) {
+    public GoldCustomer(int customerID, String customerName){
         super(customerID, customerName);
         customerGrade = "GOLD";
-        bonusRatio = 0.03;
-        salesRatio = 0.05;
+        bonusRatio = 0.02;
+        salesRatio = 0.1;
     }
 
     @Override
