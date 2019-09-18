@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="711ac0ff-44cc-43c1-ae1a-4222a8ff9e2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/AnimalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/CustomerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Eagle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/GoldCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/GoldCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/VIPCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/out/production/Inheritance/Ploymorphism/VIPCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/GoldCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/GoldCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/src/Ploymorphism/VIPCustomer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +58,7 @@
       <workItem from="1568376960349" duration="862000" />
       <workItem from="1568645060510" duration="602000" />
       <workItem from="1568683263479" duration="8904000" />
+      <workItem from="1568773811252" duration="585000" />
     </task>
     <servers />
   </component>
