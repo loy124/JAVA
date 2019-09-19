@@ -25,7 +25,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InterfaceEx" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +59,14 @@
       <workItem from="1568376960349" duration="862000" />
       <workItem from="1568645060510" duration="602000" />
       <workItem from="1568683263479" duration="8904000" />
-      <workItem from="1568773811252" duration="585000" />
+      <workItem from="1568773811252" duration="1186000" />
+      <workItem from="1568818110692" duration="2056000" />
+      <workItem from="1568821558286" duration="467000" />
+      <workItem from="1568822050783" duration="59000" />
+      <workItem from="1568822134009" duration="201000" />
+      <workItem from="1568822362430" duration="1125000" />
+      <workItem from="1568855450165" duration="208000" />
+      <workItem from="1568855698346" duration="1957000" />
     </task>
     <servers />
   </component>
