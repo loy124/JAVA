@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711ac0ff-44cc-43c1-ae1a-4222a8ff9e2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Collection/Collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toString/toString.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceEx/out/production/InterfaceEx/Sort/SortTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
